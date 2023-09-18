@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.uno {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.dos {
+  margin-top: 1rem;
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.tres {
+  margin-top: 1rem;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+}
+
+.cuatro {
+  margin-top: 1rem;
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+}
+
+.key {
+  margin-top: 1rem;
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: black 2px solid;
+}
